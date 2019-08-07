@@ -23,6 +23,12 @@ body {
   box-shadow: 12px 12px black;
 }
 
+.noShow {
+  height: 1px;
+  width: 1px;
+  display: none;
+}
+
 .cardBox {
   margin-top: 100px;
   text-align: justify;
