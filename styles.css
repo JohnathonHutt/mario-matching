@@ -7,6 +7,11 @@ body {
   box-sizing: border-box;
 }
 
+#gameContainer {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
 #title {
   font-family: 'Press Start 2P', cursive;
   text-align: center;
